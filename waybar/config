@@ -19,7 +19,7 @@
         "battery",
         "custom/power"
     ],
-    "wlr/taskbar": {
+    "hyprland/taskbar": {
         "format": "{icon}",
         "on-click": "activate",
         "on-click-right": "fullscreen",

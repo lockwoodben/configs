@@ -1,1 +1,1 @@
-{"class": "none", "text": ""}
+{"class": "paused", "text": "\u25b6 AJJ - Knife Man - Zombie by the Cranberries by Andrew Jackson Jihad (01:21/02:32) ", "tooltip": "Zombie by the Cranberries by Andrew Jackson Jihad\nby AJJ\nfrom Knife Man\n(spotify)"}
