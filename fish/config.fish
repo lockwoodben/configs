@@ -165,6 +165,7 @@ alias please='sudo'
 alias cp='cp -i'
 
 # git
+alias add='git add'
 alias addup='git add -u'
 alias addall='git add .'
 alias branch='git branch'

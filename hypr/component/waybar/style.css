@@ -162,7 +162,8 @@ window#waybar {
 }
 
 #battery.charging, #battery.plugged {
-    background-color: #94e2d5 ;
+    background-color: #94e2d5;
+    color:#fff
 }
 
 #battery {
