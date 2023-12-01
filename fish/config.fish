@@ -151,6 +151,11 @@ alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
 
+# pacman
+alias paci='sudo pacman -S'
+alias pacu='sudo pacman -R'
+alias pacs='sudo pacman -Qs'
+
 # vim
 alias vim='nvim'
 
